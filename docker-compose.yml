@@ -9,6 +9,6 @@ services:
       API_ID: 29925506
       API_HASH: b4ee18368026870a6b762c14323d8d10
       BOT_TOKEN: 7931015680:AAHARBidHicuuuPsFoQHEwOsC6qYl9V_znc
-      SESSION: https://github.com/ALDZ0/VJ-Save-Restricted-Content-Colab
+      SESSION: mongodb+srv://alaads22:rI9BU7OyIiv9MZQ5@cluster0.t9q6p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
       AUTH: 7028853088
       FORCESUB: bac2k24
